@@ -1,0 +1,11 @@
+# node
+node_modules
+
+# next.js
+.next
+
+# misc
+.env
+.DS_Store
+
+.vscode
